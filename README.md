@@ -2,4 +2,4 @@
 
 **Development React and TypeScript**
 
-![counter](https://user-images.githubusercontent.com/99200113/193966147-73670dc3-0c55-4308-ace2-5bc4cd48b42a.gif)
+![ignite-timer1](https://user-images.githubusercontent.com/99200113/194626455-cd4b3b4b-57ce-47d8-93fb-b4aadcec02e7.gif)
