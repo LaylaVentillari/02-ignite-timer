@@ -1,5 +1,7 @@
 # Pomodoro Timer
 
+ Rocketseat - Ignite Class 02
+ 
 **Development React and TypeScript**
 
 * Styling - Styled Components
